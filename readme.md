@@ -1,4 +1,4 @@
-## Constellations 
+## Constellations 
 
 automatically group people, products, books, music, anything with a name and some identifiers
 
